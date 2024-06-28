@@ -1,0 +1,22 @@
+{
+  "recommendations": [
+    "ChakrounAnas.turbo-console-log",
+    "DaltonMenezes.aura-theme",
+    "WallabyJs.console-ninja",
+    "astro-build.astro-vscode",
+    "bradlc.vscode-tailwindcss",
+    "formulahendry.auto-rename-tag",
+    "github.copilot",
+    "github.copilot-chat",
+    "googlecloudtools.cloudcode",
+    "inu1255.easy-snippet",
+    "mikestead.dotenv",
+    "ms-azuretools.vscode-docker",
+    "ms-ceintl.vscode-language-pack-es",
+    "PKief.material-icon-theme",
+    "quicktype.quicktype",
+    "qwtel.sqlite-viewer",
+    "snyk-security.snyk-vulnerability-scanner",
+    "usernamehw.errorlens"
+  ]
+}
